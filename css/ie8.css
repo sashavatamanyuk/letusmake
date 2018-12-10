@@ -1,0 +1,40 @@
+img{
+	border: 0;
+}
+
+.logo{
+	font-family: Arial;
+	font-size: 25px;
+}
+
+.menu__item{
+	font-size: 12px;
+}
+
+.banner{
+	/* background: url(../images/banner/hero_bg.jpg) no-repeat top center; */
+}
+
+.banner__link{
+	width: 80px;
+	height: 80px;
+	background: url(../images/banner/btn.png);
+}
+
+.team-items__item{
+	display: table-cell;
+}
+
+.works-items__item{
+	display: inline-block;
+}
+
+.map__map-image{
+	display: block;
+	width: 308px;
+	height: 308px;
+}
+
+.map__google-map{
+	display: none;
+}
